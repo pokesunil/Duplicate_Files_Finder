@@ -57,6 +57,9 @@ local.properties
 .scala_dependencies
 .worksheet
 
+## VS Code .gitignore ##
+.vscode/
+
 ## Maven .gitignore ##
 
 target/
