@@ -1,2 +1,2 @@
 # Duplicate_Files_Finder
-Finds duplicate files
+Python program to find duplicate files
